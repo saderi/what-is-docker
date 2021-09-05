@@ -1,0 +1,19 @@
+{
+  "name": "what-is-docker",
+  "version": "0.0.1",
+  "description": "For Docker demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "saderi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saderi/what-is-docker.git"
+  }
+}
